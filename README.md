@@ -1,1 +1,8 @@
 # datafusion
+
+# The code provided in this repository details approaches for fusing active and passive datasets using a range of approaches. 
+# The data has not been provided at this point but a description of the survey datasets used is available below. 
+
+# Survey dataset 1: The Georgia Department of Transportation Emerging Technologies Survey (GDOT survey; conducted September 2017 to January 2018) is a statewide research-oriented transportation survey conducted by our research team that obtained general attitudes and preferences, technology use, lifestyle-related variables such as employment and relationship status, a wide array of current and future travel-related attitudes, behaviors, and preferences, and socio-economic/demographic characteristics./ For more information please see: Kim, S., Mokhtarian, P. L., & Circella, G. (2019). The Impact of Emerging Technologies and Trends on Travel Demand in Georgia. Final Report, Georgia Department of  Transportation Research Project 16-31, available from the authors and at http://g92018.eos-intl.net/G92018/OPAC/Index.aspx.
+      
+# Survey dataset 2: The NHTS is a repeated cross-sectional travel behavior survey conducted by the Federal Highway Administration, and deemed the “authoritative source on travel behavior of the American public”. The NHTS used in this study was the most recent wave, conducted from March 2016 to May 2017, and includes both individual and household-level modules that cover general household characteristics, vehicle ownership attributes, long distance travel behavior, and person-level characteristics including person trips (for a chosen travel day) and health. Additional details regarding the NHTS can be accessed at https://nhts.ornl.gov/documentation. 
